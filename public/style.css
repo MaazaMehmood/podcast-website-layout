@@ -92,10 +92,10 @@ body{
     width: 100%;
     height: 85vh;
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+    /* background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
 
 .section-Home::after {
@@ -144,12 +144,12 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: left;
-    padding:0 2rem;
+    padding:1rem 2rem;
     margin-left: 1rem;
 }
 
 .hero-text {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     white-space: wrap;
     color: transparent;
     line-height: 1.3;
@@ -162,7 +162,7 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 4rem;
     font-weight: bold;
-    margin-bottom: 3rem;
+    margin-bottom: 8rem;
 }
 
 .btn-link-wrapper {
@@ -614,10 +614,10 @@ form{
     height: 100%; 
     width: 100%;
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
+    /* background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
 }
 
 /*-----------------------------------*\

@@ -1,4 +1,4 @@
-# Podcast Streaming WebsiteLayout
+## Podcast Streaming WebsiteLayout
 
 This is a podcast streaming website layout built using EJS, CSS, JavaScript, Express, and MongoDB(optional). The website allows users to discover and listen to various podcasts across different genres.
 
@@ -15,6 +15,10 @@ To run this project locally, you need to have the following installed:
 - Node.js: Ensure Node.js is installed on your machine.
 - Express.js: Ensure express.js is installed on your machine.
 - MongoDB: Install MongoDB to set up the database.
+
+## Demo
+
+- Access live demo here 'https://podcast-086b25.netlify.app/'.
 
 ## Getting Started
 
@@ -41,6 +45,3 @@ app.js: The main application file where the Express app is configured.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-
--Feel free to customize this README file based on your project's specific details, functionalities, and requirements.
